@@ -1,0 +1,62 @@
+2022-09-29
+----------
+
+WHAT WE GOT
+===========
+
+1. Word count (almost everybody)
+2. Word freq. (Tatik, w/o scaling)
+2. Balls jumping (Anastasia (Java), Tatik (C + SDL2), others -- attempts to get animation running)
+
+PRACTICE
+========
+
+1. Balls -- generation, different sizes (*)
+2. Balls -- everybody (who wanted to) gets it working
+3. Balls -- program scheme (a few slides)
+
+4. Word freq. w/scaling (**)
+5. Word freq. w/ effective container (tree or hash or both) (**)
+
+6. TCP/IP chat (need some theory first) (POSTPONED)
+
+THEORY
+======
+
+Options
+-------
+1. Generic containers
+2. Generic algorithms
+    2.1. qsort()
+
+2,5. O(f(n)) and its friends aka Algorithm complexity
+
+3. Multiple source files in C
+4. make (?) -- build automation
+
+4,5. Regular expressions
+
+5. Process control in Unix
+    5.1. fork(), exec()
+    5.2. Signals
+    5.3. Daemons
+6. Network programming
+
+-- C specifics ends here
+
+7. C++ basics -- ???
+7. Web programming basics -- ???
+    (requires min of SQL)
+7. SQL DB basics -- ???
+    7.1. DB programming
+7. Java
+
+7,5. OOP patterns ("Gang of 4 book", etc.)
+
+8. Desktop app (requires C++ or Java)
+    8.1. Specific patterns
+    8.2. MVC (???)
+9. Multithread/multicore programming
+
+
+???
