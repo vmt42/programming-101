@@ -134,6 +134,14 @@ https://www.ozon.ru/product/unix-i-linux-rukovodstvo-sistemnogo-administratora-5
 
 Классическое руководство сисадмина, издающееся с незапамятных времен. Существенно переработано к 5 изданию, т.к. предыдущие издания повествовали по таком диком проприетарном старье, которое чсейчас только в музее старой техники встретишь. Существенно перекошено в сторону проблем корпоративного сисадмина, а вовсе не программиста.
 
+## Инструменты
+
+* Mecklenburg, Robert **Managing Projects with GNU Make** Third Edition 2004
+
+https://www.oreilly.com/openbook/make3/book/index.csp
+
+Старинной работы, но хорошая книга о make и его языке. Автор излагает медленно, обстоятельно.
+
 ## Сеть
 
 * Stevens, William Richard **"TCP/IP Illustrated, Vol. 1: The Protocols"** / Стивенс, Уильям Ричард **"Протоколы TCP/IP. Практическое руководство"**
