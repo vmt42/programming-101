@@ -169,7 +169,8 @@ https://www.amazon.com/dp/0596002556/
 
 Лучшая книга по реализации сетевой поддержки в Linux. Вышла в 2006 году и не переиздавалась. Возраст дает о себе знать: в книге почти нет IPv6, и логика построения системы роутинга IPv4 в сегодняшнем Linux радикально переписана. Тем не менее настоятельно рекомендую.
 
-* Rosen, Rami **https://www.amazon.com/Linux-Kernel-Networking-Implementation-Experts/dp/143026196X**
+* Rosen, **Rami Linux Kernel Networking: Implementation and Theory** 
+https://www.amazon.com/Linux-Kernel-Networking-Implementation-Experts/dp/143026196X
 
 Книга не очень четко написана, сильно ссылается на код, и уже не очень новая -- вышла в 2013 году. Тем не менее это одна из немногих книг, систематически излагающих вопрос. Годится как дополнение к труду Бенвенути.
 
